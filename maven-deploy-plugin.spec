@@ -1,6 +1,6 @@
 Name:           maven-deploy-plugin
 Version:        2.5
-Release:        6
+Release:        8
 Summary:        Maven Deploy Plugin
 
 Group:          Development/Java
