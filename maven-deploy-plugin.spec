@@ -4,7 +4,7 @@ Version:        2.7
 Release:        10.0%{?dist}
 Summary:        Maven Deploy Plugin
 License:        ASL 2.0
-URL:            http://maven.apache.org/plugins/maven-deploy-plugin/
+URL:            https://maven.apache.org/plugins/maven-deploy-plugin/
 Source0:        http://repo1.maven.org/maven2/org/apache/maven/plugins/%{name}/%{version}/%{name}-%{version}-source-release.zip
 
 BuildArch: noarch
