@@ -1,2 +1,4 @@
 sources:
+  maven-deploy-plugin-3.2.0.tar.gz: 1e2fdb14d96f16f55203d037d5335336f484801d
+removed_sources:
   maven-deploy-plugin-2.7-source-release.zip: f052c2cd05fcdf6ebe686bebad4a2c965fd74506
